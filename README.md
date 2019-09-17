@@ -3,15 +3,17 @@ eecs731-jimmy_wrangler
 
 Dalton Hahn (2762306)
 
-Distribution estimation
+Goal
 -----------------------
 
-1. 
+Correlate the collected datasets and see if there is a connection regarding President Trump's tweets, lawsuits filed against him and his companies, and his approval ratings. 
 
 Datasets
 --------
-1. 
-2. 
+1. https://github.com/fivethirtyeight/data/blob/master/trump-twitter/realDonaldTrump_poll_tweets.csv 
+2. https://projects.fivethirtyeight.com/trump-approval-data/approval_polllist.csv
+3. https://projects.fivethirtyeight.com/trump-approval-data/approval_topline.csv
+4. https://raw.githubusercontent.com/fivethirtyeight/data/master/trump-lawsuits/trump-lawsuits.csv
 
 
 
