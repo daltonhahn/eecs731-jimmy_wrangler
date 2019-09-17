@@ -24,6 +24,7 @@ Project Organization
     ├── README.md          <- The top-level README for developers using this project.
     ├── data
     │   └── external       <- Data from third party sources.
+    │   └── processed      <- Intermediate data used for the analysis notebook.
     └── notebooks          <- Two notebooks, one for each dataset modeled, each are self 
                               contained and include documentation
 
